@@ -10,10 +10,10 @@ import {
   ProjectTitle,
 } from "./StylingComponents";
 
-import unsplash from "../../public/unsplash.jpg";
-import yousta from "../../public/yousta.jpg";
-import blushLace from "../../public/blushLace.png";
-import styleUnion from "../../public/styleUnion.webp";
+// import unsplash from "../../public/unsplash.jpg";
+import yousta from "../assets/yousta.png";
+import blushLace from "../assets/blushLace.png";
+import styleUnion from "../assets/styleUnion.webp";
 
 const RecentProjectsSection = () => {
   return (
