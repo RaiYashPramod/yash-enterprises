@@ -6,6 +6,7 @@ import QuoteSection from "./components/QuoteSection";
 import OurServicesSection from "./components/OurServicesSection";
 import RecentProjectsSection from "./components/RecentProjectsSection";
 import ContactUsSection from "./components/ContactUsSection";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <StatsSection />
       <RecentProjectsSection />
       {/* <ContactUsSection /> */}
+      <Footer />
     </>
   );
 }

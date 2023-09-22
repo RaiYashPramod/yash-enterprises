@@ -11,6 +11,9 @@ import {
 } from "./StylingComponents";
 
 import unsplash from "../../public/unsplash.jpg";
+import yousta from "../../public/yousta.jpg";
+import blushLace from "../../public/blushLace.png";
+import styleUnion from "../../public/styleUnion.webp";
 
 const RecentProjectsSection = () => {
   return (
@@ -20,21 +23,21 @@ const RecentProjectsSection = () => {
         <ProjectCardContainer>
           <ProjectCard>
             <ProjectImage>
-              <Image src={unsplash} alt="Reliance" />
+              <Image src={yousta} alt="Reliance" />
             </ProjectImage>
             <ProjectName>Yousta</ProjectName>
             <ProjectCompany>Reliance Pvt. Ltd.</ProjectCompany>
           </ProjectCard>
           <ProjectCard>
             <ProjectImage>
-              <Image src={unsplash} alt="Reliance" />
+              <Image src={blushLace} alt="Reliance" height={400} width={400} />
             </ProjectImage>
             <ProjectName>Blush Lace</ProjectName>
             <ProjectCompany>Reliance Pvt. Ltd.</ProjectCompany>
           </ProjectCard>
           <ProjectCard>
             <ProjectImage>
-              <Image src={unsplash} alt="Reliance" />
+              <Image src={styleUnion} alt="Reliance" />
             </ProjectImage>
             <ProjectName>Style Union</ProjectName>
             <ProjectCompany>Nexon Omniverse Ltd.</ProjectCompany>

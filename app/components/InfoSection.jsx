@@ -15,7 +15,7 @@ const InfoSection = () => {
           <InfoDetailText>
             Yash Enterprises has been in the industry since March 5, 2003,
             providing top-notch civil and interior contractor services. Our
-            commitment to quality can be seen in the stunning results we've
+            commitment to quality can be seen in the stunning results we&apos;ve
             achieved for countless clients.
           </InfoDetailText>
           <InfoDetailText>
