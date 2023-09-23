@@ -1,9 +1,7 @@
 import React from 'react'
 import { BackgroundImg, Content, Quote, QuoteDiv } from './StylingComponents'
 import Image from 'next/image'
-// import unsplash from '../assets/unsplash.jpg'
-// import unsplash from '../../public/images/unsplash.jpg'
-import unsplash from '../../public/unsplash.jpg'
+import unsplash from 'app/assets/unsplash.jpg'
 
 const QuoteSection = () => {
   return (

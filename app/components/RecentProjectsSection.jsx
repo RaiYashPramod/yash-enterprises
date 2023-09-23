@@ -11,9 +11,9 @@ import {
 } from "./StylingComponents";
 
 // import unsplash from "../../public/unsplash.jpg";
-import yousta from "../assets/yousta.png";
-import blushLace from "../assets/blushLace.png";
-import styleUnion from "../assets/styleUnion.webp";
+import yousta from "app/assets/yousta.jpg";
+import blushLace from "app/assets/blushlace.png";
+import styleUnion from "app/assets/styleUnion.webp";
 
 const RecentProjectsSection = () => {
   return (
