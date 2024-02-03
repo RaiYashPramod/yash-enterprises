@@ -6,6 +6,7 @@ import {
   ProjectCompany,
   ProjectDiv,
   ProjectImage,
+  ProjectLocation,
   ProjectName,
   ProjectTitle,
 } from "./StylingComponents";
@@ -27,6 +28,7 @@ const RecentProjectsSection = () => {
             </ProjectImage>
             <ProjectName>Yousta</ProjectName>
             <ProjectCompany>Reliance Pvt. Ltd.</ProjectCompany>
+            <ProjectLocation>Hyderabad, Telangana</ProjectLocation>
           </ProjectCard>
           <ProjectCard>
             <ProjectImage>
@@ -34,6 +36,7 @@ const RecentProjectsSection = () => {
             </ProjectImage>
             <ProjectName>Blush Lace</ProjectName>
             <ProjectCompany>Reliance Pvt. Ltd.</ProjectCompany>
+            <ProjectLocation>Hyderabad, Telangana</ProjectLocation>
           </ProjectCard>
           <ProjectCard>
             <ProjectImage>

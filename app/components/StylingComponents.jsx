@@ -684,6 +684,24 @@ export const ProjectCompany = styled.text`
   line-height: 1.5;
   text-align: left;
 `
+export const ProjectLocation = styled.text`
+  flex-shrink: 0;
+  width: 100%;
+  height: auto; /* 30px */
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow: visible;
+  position: relative;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Archivo", "Archivo Placeholder", sans-serif;
+  color: #757575;
+  font-size: 1rem;
+  letter-spacing: 0em;
+  line-height: 1.5;
+  text-align: left;
+`
 export const ContactContainer = styled.div`
   box-sizing: border-box;
   flex-shrink: 0;

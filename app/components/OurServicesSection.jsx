@@ -102,9 +102,7 @@ const OurServicesSection = () => {
           We offer much more than plumbing solutions…we offer sound advice. Again, no matter what size the job, we help you make the best possible decision for your Branch and budget.
           We are relentless in our pursuit of greater safety…for your sake, and that of our own employees.
           Sustainability isn’t just one of our priorities. It’s a responsibility, and one we take most seriously.
-          Our goal is to be your plumber for life. That means earning a level of trust that’s hard to come by these days. But we’ll work faithfully to earn and keep yours.
-          
-          .`}
+          Our goal is to be your plumber for life. That means earning a level of trust that’s hard to come by these days. But we’ll work faithfully to earn and keep yours.`}
           isOpen={isOpen.Plumbing}
           toggle={() => toggleService("Plumbing")}
         />
